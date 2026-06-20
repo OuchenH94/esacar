@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.vercel/
+.netlify/
+.env*
+!.env.example
+.DS_Store
+*.log
+coverage/
+.vite/
+.vscode/
+.idea/
+
